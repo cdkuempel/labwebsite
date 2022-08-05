@@ -3,6 +3,4 @@ title: "People"
 editor: visual
 ---
 
-\-\--
-
-title: "Dr Caitie Kuempel"
+## Dr Caitie Kuempel
