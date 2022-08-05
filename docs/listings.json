@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/publications/almaraz_2022.html",
+      "/publications/suarez_castro_2021.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/caitie_kuempel.html"
+    ]
+  }
+]

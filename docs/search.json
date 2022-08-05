@@ -7,11 +7,18 @@
     "text": "3804ENV Marine Ecosystem Modelling\nThis course will provide students with the knowledge and quantitative skills needed for the management and conservation of marine living resources. Students will learn about the modelling methods that inform ecosystem management. Students will utilise the R programming environment to simulate the processes that determine marine ecosystem population dynamics. Prerequisite: Student must have completed 160CP."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "research.html#conservation-planning",
+    "href": "research.html#conservation-planning",
     "title": "Research",
-    "section": "",
-    "text": "Conservation planning\n\n\nCoral reef ecology"
+    "section": "Conservation planning",
+    "text": "Conservation planning"
+  },
+  {
+    "objectID": "research.html#coral-reef-ecology",
+    "href": "research.html#coral-reef-ecology",
+    "title": "Research",
+    "section": "Coral reef ecology",
+    "text": "Coral reef ecology"
   },
   {
     "objectID": "contact.html",
@@ -37,8 +44,43 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "Dr Caitie Kuempel",
     "section": "",
-    "text": "title: “Dr Caitie Kuempel”"
+    "text": "I am currently a Lecturer in Ecological Modelling at Griffith Univeristy (Brisbane, Australia)."
+  },
+  {
+    "objectID": "people/caitie_kuempel.html",
+    "href": "people/caitie_kuempel.html",
+    "title": "Dr Caitie Kuempel",
+    "section": "",
+    "text": "Caitie Kuempel is a lecturer in Marine Ecological Modelling at Griffith University."
+  },
+  {
+    "objectID": "people/caitie_kuempel.html#education",
+    "href": "people/caitie_kuempel.html#education",
+    "title": "Dr Caitie Kuempel",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/caitie_kuempel.html#experience",
+    "href": "people/caitie_kuempel.html#experience",
+    "title": "Dr Caitie Kuempel",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people.html#education",
+    "href": "people.html#education",
+    "title": "Dr Caitie Kuempel",
+    "section": "Education",
+    "text": "Education\nPhD in Conservation Science | Nov. 2014-Aug. 2018 University of Queensland, Brisbane, Australia\nMSc Marine Biology | Aug. 2011 - Dec. 2012 Northeastern University, Boston, MA, USA\nBSc Environmental Science | Aug. 2007-May 2011 BA French University of Iowa, Iowa City, IA, USA"
+  },
+  {
+    "objectID": "people.html#experience",
+    "href": "people.html#experience",
+    "title": "Dr Caitie Kuempel",
+    "section": "Experience",
+    "text": "Experience"
   }
 ]

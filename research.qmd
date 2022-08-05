@@ -3,8 +3,26 @@ title: "Research"
 editor: visual
 ---
 
-# Sustainable seafood
+## Sustainable seafood
 
-# Conservation planning
+## Conservation planning
 
-# Coral reef ecology
+## Coral reef ecology
+
+# Publications
+
+Please e-mail me if you do not have access to my work and I will gladly e-mail you a PDF copy.
+
+---
+listing:
+  contents: [posts, publications]
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+page-layout: full
+comments: false
+title-block-banner: true
+---

@@ -1,0 +1,7 @@
+---
+title: "The impact of excessive protein consumption on human wastewater nitrogen loading of US waters"
+author: "Almaraz, Kuempel, Salter, Halpern, B.S."
+editor: visual
+image: almaraz.jpg
+date: "July 2022"
+---
