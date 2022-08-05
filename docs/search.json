@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "kuempelconservationgroup",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "3804ENV Marine Ecosystem Modelling\nThis course will provide students with the knowledge and quantitative skills needed for the management and conservation of marine living resources. Students will learn about the modelling methods that inform ecosystem management. Students will utilise the R programming environment to simulate the processes that determine marine ecosystem population dynamics. Prerequisite: Student must have completed 160CP."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "About this site"
+    "text": "Conservation planning\n\n\nCoral reef ecology"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Please contact me to discuss potential projects. Expressions of interest for Griffith University scholarship rounds close in April and September annually."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "You can find a selection of media coverage from our projects below."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data and Code",
+    "section": "",
+    "text": "I strongly believe in open, reproducible science. I strive to make all data and code from my projects publicly available, where possible. You can find all available materials hosted on github."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "title: “Dr Caitie Kuempel”"
   }
 ]

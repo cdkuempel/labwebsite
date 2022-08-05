@@ -1,7 +1,20 @@
 ---
-title: "kuempelconservationgroup"
+title: "Welcome"
+image: CoralSea.png
+about:
+  template: marquee
+  links:
+    - icon: google
+      text: GoogleScholar
+      href: https://scholar.google.com/citations?user=nE8IeT4AAAAJ&hl=en
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/cdkuempel
+    - icon: github
+      text: GitHub
+      href: https://github.com/cdkuempel
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/caitie-kuempel-b86905110/
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

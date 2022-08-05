@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "kuempelconservationgroup"
+  title: "Kuempel Conservation Group"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - research.qmd
+      - people.qmd
+      - data.qmd
+      - teaching.qmd
+      - media.qmd
+      - contact.qmd
+    
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 
