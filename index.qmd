@@ -1,8 +1,8 @@
 ---
 title: "Welcome"
-image: CoralSea.png
 about:
   template: marquee
+  image: CoralSea.png
   links:
     - icon: google
       text: GoogleScholar
@@ -17,4 +17,32 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/caitie-kuempel-b86905110/
 ---
+
+::: {.grid}
+
+::: {.g-col-4}
+![Dr Caitie Kuempel](Kuempel_headshot.jpg)
+:::
+
+::: {.g-col-8}
+I am currently a Lecturer in Ecological Modelling at Griffith Univeristy (Brisbane, Australia).
+
+## Education
+
+**PhD in Conservation Science** \| Nov. 2014-Aug. 2018 University of Queensland, Brisbane, Australia
+
+**MSc Marine Biology** \| Aug. 2011 - Dec. 2012 Northeastern University, Boston, MA, USA
+
+**BSc Environmental Science** \| Aug. 2007-May 2011 **BA French** \| Aug. 2007-May 2012
+
+University of Iowa, Iowa City, IA, USA
+
+## Experience
+
+Please see my [CV](https://github.com/cdkuempel/CV/blob/master/CV.pdf) and [Griffith Expert](https://experts.griffith.edu.au/37253-caitie-kuempel) page for more information.
+
+:::
+
+:::
+
 

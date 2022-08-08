@@ -65,9 +65,10 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 18,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -111,19 +112,10 @@ ul.task-list{list-style: none;}
     <a class="nav-link active" href="./research.html" aria-current="page">Research</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html">People</a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./data.html">Data and Code</a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./teaching.html">Teaching</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./media.html">Media</a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./contact.html">Contact us</a>
+    <a class="nav-link" href="./contact.html">Contact</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -155,37 +147,28 @@ ul.task-list{list-style: none;}
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#sustainable-seafood" id="toc-sustainable-seafood" class="nav-link active" data-scroll-target="#sustainable-seafood">Sustainable seafood</a></li>
-  <li><a href="#conservation-planning" id="toc-conservation-planning" class="nav-link" data-scroll-target="#conservation-planning">Conservation planning</a></li>
-  <li><a href="#coral-reef-ecology" id="toc-coral-reef-ecology" class="nav-link" data-scroll-target="#coral-reef-ecology">Coral reef ecology</a></li>
-  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#publications-code-and-media" id="toc-publications-code-and-media" class="nav-link active" data-scroll-target="#publications-code-and-media">Publications, code and media</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(25)</span></div><div class="category" data-category="MPA">MPA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="World Heritage">World Heritage <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aquaculture">aquaculture <span class="quarto-category-count">(3)</span></div><div class="category" data-category="award">award <span class="quarto-category-count">(1)</span></div><div class="category" data-category="conservation planning">conservation planning <span class="quarto-category-count">(11)</span></div><div class="category" data-category="conservation targets">conservation targets <span class="quarto-category-count">(8)</span></div><div class="category" data-category="coral reef ecology">coral reef ecology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cumulative impacts">cumulative impacts <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ecology">ecology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="land-sea conservation">land-sea conservation <span class="quarto-category-count">(4)</span></div><div class="category" data-category="seagrass">seagrass <span class="quarto-category-count">(1)</span></div><div class="category" data-category="sustainable food">sustainable food <span class="quarto-category-count">(6)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
-<section id="sustainable-seafood" class="level2">
-<h2 class="anchored" data-anchor-id="sustainable-seafood">Sustainable seafood</h2>
-</section>
-<section id="conservation-planning" class="level2">
-<h2 class="anchored" data-anchor-id="conservation-planning">Conservation planning</h2>
-</section>
-<section id="coral-reef-ecology" class="level2">
-<h2 class="anchored" data-anchor-id="coral-reef-ecology">Coral reef ecology</h2>
-</section>
-<section id="publications" class="level1">
-<h1>Publications</h1>
-<p>Please e-mail me if you do not have access to my work and I will gladly e-mail you a PDF copy.</p>
+<p>My research increases understanding and informs conservation decisions under three main themes: sustainable food production (particularly seafood), achieving conservation targets, and conservation planning (land-sea and . My background is in coral reef ecology, and I am particularly interested in how we can best conserve the world’s oceans while considering the needs of the growing human population.</p>
+<section id="publications-code-and-media" class="level1">
+<h1>Publications, code and media</h1>
+<p>Click on projects below to find links to publications, code/data and media coverage.</p>
+<p>Please e-mail me if you do not have access to my work and I will gladly send you a PDF copy.</p>
+<p>I strongly believe in open, reproducible science. I strive to make all data and code from my projects publicly available, where possible. You can find all available materials hosted on github and linked below.</p>
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
@@ -211,71 +194,818 @@ ul.task-list{list-style: none;}
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1656597600000" data-listing-file-modified-sort="1659676035800" data-listing-reading-time-sort="0.005">
-<div class="thumbnail">
-<p><a href="./publications/almaraz_2022.html"> <img src="./publications/almaraz.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./publications/almaraz_2022.html">
-<h3 class="no-anchor listing-title">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="sustainable food,land-sea conservation" data-listing-date-sort="1655733600000" data-listing-file-modified-sort="1659935088612" data-listing-reading-time-sort="0.16">
+<a href="./publications/almaraz_2022.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/almaraz.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 The impact of excessive protein consumption on human wastewater nitrogen loading of US waters
-</h3>
-<div class="listing-subtitle">
-
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sustainable food'); return false;">
+sustainable food
 </div>
-<div class="listing-description">
-
+<div class="listing-category" onclick="window.quartoListingCategory('land-sea conservation'); return false;">
+land-sea conservation
 </div>
-</a>
 </div>
-<div class="metadata">
-<a href="./publications/almaraz_2022.html">
-<div class="listing-date">
-Jul 1, 2022
+<div class="card-text listing-description">
+<img src="almaraz.jpg" class="img-fluid figure-img">
 </div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Almaraz, Kuempel, Salter, Halpern, B.S.
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1624716000000" data-listing-file-modified-sort="1659675380069" data-listing-reading-time-sort="0.005">
-<div class="thumbnail">
-<a href="./publications/suarez_castro_2021.html">
-<div class="thumbnail-image">
-
-</div>
-</a><p><a href="./publications/suarez_castro_2021.html"></a></p>
-</div>
-<div class="body">
-<a href="./publications/suarez_castro_2021.html">
-<h3 class="no-anchor listing-title">
-Global forest restoration opportunities to foster coral reef conservation
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./publications/suarez_castro_2021.html">
 <div class="listing-date">
-Jun 27, 2021
+Jun 21, 2022
 </div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="sustainable food,aquaculture" data-listing-date-sort="1645279200000" data-listing-file-modified-sort="1659936708939" data-listing-reading-time-sort="0.18">
+<a href="./publications/clawson_2022.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/clawson_2022.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mapping the spatial distribution of global mariculture production
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sustainable food'); return false;">
+sustainable food
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('aquaculture'); return false;">
+aquaculture
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="clawson_2022.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Clawson, Kuempel, Frazier, Blasco, Cottrell, Froehlich, Metian, Nash, Tobben, Verstaen, Williams, Halpern
+</div>
+<div class="listing-date">
+Feb 20, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="World Heritage,cumulative impacts" data-listing-date-sort="1638885600000" data-listing-file-modified-sort="1659942710202" data-listing-reading-time-sort="0.22">
+<a href="./publications/kuempel_2021.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/kuempel_2021.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Assessing the status of existing and tentative marine World Heritage areas reveals opportunities to better achieve World Heritage convention goals
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('World Heritage'); return false;">
+World Heritage
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cumulative impacts'); return false;">
+cumulative impacts
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2021.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Simmons, Davey.
+</div>
+<div class="listing-date">
+Dec 8, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="conservation planning,land-sea conservation" data-listing-date-sort="1638453600000" data-listing-file-modified-sort="1659942544043" data-listing-reading-time-sort="0.16">
+<a href="./publications/williams_2021.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/williams_2021.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Global rarity of intact coastal regions
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('land-sea conservation'); return false;">
+land-sea conservation
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="williams_2021.jpb" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Williams, Watson, Beyer, Klein, Montgomery, Runting, Roberson, Halpern, Grantham, Kuempel, Frazier, Venter, Wenger
+</div>
+<div class="listing-date">
+Dec 3, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="conservation planning,cumulative impacts,land-sea conservation" data-listing-date-sort="1635861600000" data-listing-file-modified-sort="1659942062864" data-listing-reading-time-sort="0.22">
+<a href="./publications/kuempel_2021_4.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/kuempel_2021_4.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Identifying management opportunities to combat climate, land, and marine threats across less climate exposed coral reefs
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cumulative impacts'); return false;">
+cumulative impacts
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('land-sea conservation'); return false;">
+land-sea conservation
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2021_4.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Tulloch, Giffin, Simmons, Hagger, Phua, Hoegh-Guldberg
+</div>
+<div class="listing-date">
+Nov 3, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="conservation targets" data-listing-date-sort="1629036000000" data-listing-file-modified-sort="1659942064356" data-listing-reading-time-sort="0.17">
+<a href="./publications/kuempel_2021_2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/kuempel_2021_2.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Predicted protected area downsizing impedes conservation progress across terrestrial ecoregions in the tropics and subtropics
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2021_2.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Chauvenet, Symes, Possingham
+</div>
+<div class="listing-date">
+Aug 16, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="conservation planning" data-listing-date-sort="1628085600000" data-listing-file-modified-sort="1659942024735" data-listing-reading-time-sort="0.19">
+<a href="./publications/roberson_2021.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/roberson_2021.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Multinational coordination required for conservation of over 90% of marine species
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="roberson_2021.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Roberson, Beyer, O’Hara, Watson, Dunn, Halpern, Klein, Frazier, Kuempel, Williams, Grantham, Montgomery, Kark, Runting
+</div>
+<div class="listing-date">
+Aug 5, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="conservation planning,land-sea conservation" data-listing-date-sort="1624716000000" data-listing-file-modified-sort="1659942171233" data-listing-reading-time-sort="0.185">
+<a href="./publications/suarez_castro_2021.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/suarez.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Global forest restoration opportunities to foster coral reef conservation
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('land-sea conservation'); return false;">
+land-sea conservation
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="suarez.jpg" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Saurez-Castro, Beyer, Kuempel, Linke, Borrelli, Hoegh-Guldberg
 </div>
+<div class="listing-date">
+Jun 27, 2021
+</div>
+</div>
+</div>
+</div>
 </a>
 </div>
+<div class="g-col-1" data-index="8" data-categories="sustainable food,aquaculture" data-listing-date-sort="1613397600000" data-listing-file-modified-sort="1659942662942" data-listing-reading-time-sort="0.165">
+<a href="./publications/kuempel_2021_3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/kuempel_2021_3.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+An informed thought experiment exploring the potential for a paradigm shift in aquatic food production
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sustainable food'); return false;">
+sustainable food
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('aquaculture'); return false;">
+aquaculture
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2021_3.jpeg" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Froehlich, Halpern
+</div>
+<div class="listing-date">
+Feb 16, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="sustainable food,aquaculture,award" data-listing-date-sort="1610028000000" data-listing-file-modified-sort="1659935429138" data-listing-reading-time-sort="0.49">
+<a href="./publications/cottrell_2021.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/cottrell_2021.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Time to rethink tropic levels in aquaculture policy
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sustainable food'); return false;">
+sustainable food
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('aquaculture'); return false;">
+aquaculture
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('award'); return false;">
+award
+</div>
+</div>
+<div class="card-text listing-description">
+This article was honored as a Sena de Silva paper which recognises high quality articles that excel in one, or more of the following qualities: i) Novelty and originality, ii) likelihood of direct positive impacts for the aquaculture sector, with keen focus on any of, or all three: environmental sustainability, economic viability, and social responsibility, iii) overall quality of scientific reasonings coupled with real-world applicability.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Cottrell, Metian, Froehlich, Blanchard, Jacobsen, McIntyre, Nash, Williams Bouwman, Gephart, Kuempel, Moran, Troell, Halpern
+</div>
+<div class="listing-date">
+Jan 8, 2021
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="conservation planning,MPA" data-listing-date-sort="1607349600000" data-listing-file-modified-sort="1659935106378" data-listing-reading-time-sort="0.18">
+<a href="./publications/adams_2020.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/adams_2020.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Scheduling incremental actions to build a comprehensive national protected area network for Papua New Guinea
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('MPA'); return false;">
+MPA
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="adams_2020.jpeg" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Adams, Dimitrova, Possingham, Allan, Kuempel, Peterson, Kaiye, Keako, Tulloch
+</div>
+<div class="listing-date">
+Dec 8, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="sustainable food,cumulative impacts" data-listing-date-sort="1595512800000" data-listing-file-modified-sort="1659939976850" data-listing-reading-time-sort="0.18">
+<a href="./publications/kuempel_2020.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/kuempel_2020.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Integrating life cycle and impact assessments to map food’s cumulative environmental footprint
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sustainable food'); return false;">
+sustainable food
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cumulative impacts'); return false;">
+cumulative impacts
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2020.jpg" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Frazier, Nash, Jacobsen, Williams, Blanchard, Cottrell, McIntyre, Moran, Bouwman, Forhelich, Gephart, Metian, Tobben, Halpern
+</div>
+<div class="listing-date">
+Jul 24, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="12" data-categories="conservation planning,conservation targets" data-listing-date-sort="1590069600000" data-listing-file-modified-sort="1659936651117" data-listing-reading-time-sort="0.18">
+<a href="./publications/chauvenet_2020.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/chauvenet_2020.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+To achieve big wins for terrestrial conservation, prioritize protection of ecoregions clostest to meeting targets
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="chauvenet_2020.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Chauvenet, Watson, Adams, Di Marco, Venter, Davis, Mapping, Klein, Kuempel, Possingham
+</div>
+<div class="listing-date">
+May 22, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-categories="conservation targets" data-listing-date-sort="1579788000000" data-listing-file-modified-sort="1659942731282" data-listing-reading-time-sort="0.19">
+<a href="./publications/kuempel_2020_2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/kuempel_2020_2.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Evidence-based guidelines for prioritizing investments to meet international conservation objectives
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2020_2.jpg" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Chauvenet, Possingham, Adams.
+</div>
+<div class="listing-date">
+Jan 24, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-categories="conservation planning" data-listing-date-sort="1576591200000" data-listing-file-modified-sort="1659935799079" data-listing-reading-time-sort="0.255">
+<a href="./publications/daigle_2019.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/daigle_2019.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Operationalizing ecological connectivity in spatial conservation planning with Marxan Connect
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+</div>
+<div class="card-text listing-description">
+This paper was recognised as a top cited article in the journal Methods in Ecolovy and Evolution in 2022.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Daigle, Metaxas, Balbar, McGowan, Treml, Kuempel, Possingham, Beger
+</div>
+<div class="listing-date">
+Dec 18, 2019
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="15" data-categories="sustainable food" data-listing-date-sort="1568037600000" data-listing-file-modified-sort="1659939048299" data-listing-reading-time-sort="0.185">
+<a href="./publications/halpern_2019.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/halpern_2019.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Putting all foods on the same table: Achieving sustainable food systems requires full accounting
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('sustainable food'); return false;">
+sustainable food
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="halpern_2019.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Halpern, Cottrell, Blanchard, Bouwman, Forhelich, Gephart, Jacobsen, Kuempel, McIntyre, Metian, Moran, Nash, Tobben, Williams
+</div>
+<div class="listing-date">
+Sep 10, 2019
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="16" data-categories="conservation targets,conservation planning" data-listing-date-sort="1552399200000" data-listing-file-modified-sort="1659939641421" data-listing-reading-time-sort="0.265">
+<a href="./publications/kuempel_2019.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/kuempel_2019.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Quantifying biases in marine protected area placement relative to abatable threats
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+</div>
+<div class="card-text listing-description">
+This work was recognised as a highly cited article in the journal Conservation Biology in 2020.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Jones, Watson, Possingham
+</div>
+<div class="listing-date">
+Mar 13, 2019
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="17" data-categories="conservation planning,conservation targets" data-listing-date-sort="1538575200000" data-listing-file-modified-sort="1659936988531" data-listing-reading-time-sort="0.305">
+<a href="./publications/jantke_2018.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./publications/jantke_2018.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Metrics for evaluating representation target achievement in protected area networks
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+</div>
+<div class="card-text listing-description">
+The metrics in this paper have been adopted by the European Comission Digital Observatory for Protected Areas to measure representation achievement. See here for more information.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jantke, Kuempel, McGowan, Chauvenet, Possingham
+</div>
+<div class="listing-date">
+Oct 4, 2018
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="18" data-categories="conservation planning,cumulative impacts" data-listing-date-sort="1533477600000" data-listing-file-modified-sort="1659940812336" data-listing-reading-time-sort="0.21">
+<a href="./publications/jones_2018.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./publications/jones_2018.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The location and protection status of Earth’s diminishing marine wilderness
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cumulative impacts'); return false;">
+cumulative impacts
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="jones_2018.jpeg" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jones, Klein, Halpern, Venter, Grantham, Kuempel, Shumway, Friedlander, Possingham, Watson
+</div>
+<div class="listing-date">
+Aug 6, 2018
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="19" data-categories="conservation targets" data-listing-date-sort="1512741600000" data-listing-file-modified-sort="1659939287026" data-listing-reading-time-sort="0.18">
+<a href="./publications/kuempel_2017.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./publications/kuempel_2017.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bigger or better: The relative benefits of protected area network expansion and enforcement for the conservation of an exploited species
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2017.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Adams, Possingham, Bode
+</div>
+<div class="listing-date">
+Dec 9, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="20" data-categories="ecology,seagrass" data-listing-date-sort="1502287200000" data-listing-file-modified-sort="1659935030550" data-listing-reading-time-sort="0.17">
+<a href="./publications/campbell_2017.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./publications/campbell_2017.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Herbivore community determines the magnitude and mechanism of nutrient effects on subtropical and tropical seagrasses
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('ecology'); return false;">
+ecology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('seagrass'); return false;">
+seagrass
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="campbell_2017.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Campbell, Altieri, Johnston, Kuempel, Paperno, Paul, Duffy
+</div>
+<div class="listing-date">
+Aug 10, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="21" data-categories="conservation targets" data-listing-date-sort="1487080800000" data-listing-file-modified-sort="1659935046536" data-listing-reading-time-sort="0.175">
+<a href="./publications/chauvenet_2017.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./publications/chauvenet_2017.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Methods for calculating Protection Equality for conservation planning
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+</div>
+<div class="card-text listing-description">
+To install the package use devtools::install_github(“AChauvenet/ProtectEqual”)
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Chauvenet, Kuempel, McGowan, Beger, Possingham
+</div>
+<div class="listing-date">
+Feb 15, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="22" data-categories="coral reef ecology" data-listing-date-sort="1483538400000" data-listing-file-modified-sort="1659939126488" data-listing-reading-time-sort="0.19">
+<a href="./publications/kuempel_2017_2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./publications/kuempel_2017_2.JPG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The emergent role of small-bodied herbivores in pre-empting phase shifts on degraded coral reefs
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('coral reef ecology'); return false;">
+coral reef ecology
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="kuempel_2017_2.JPG" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel and Altieri
+</div>
+<div class="listing-date">
+Jan 5, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="23" data-categories="conservation planning,conservation targets" data-listing-date-sort="1473602400000" data-listing-file-modified-sort="1659938864242" data-listing-reading-time-sort="0.285">
+<a href="./publications/kuempel_2016.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./publications/kuempel_2016.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Equitable representation of ecoregions is slowly improving despite strategic planning shortfalls
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('conservation planning'); return false;">
+conservation planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('conservation targets'); return false;">
+conservation targets
+</div>
+</div>
+<div class="card-text listing-description">
+This work was presented at a University of Queensland Landscape Ecology and Conservation seminar in 2016.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Kuempel, Chauvenet, Possingham
+</div>
+<div class="listing-date">
+Sep 12, 2016
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="24" data-categories="coral reef ecology" data-listing-date-sort="1468504800000" data-listing-file-modified-sort="1659941392036" data-listing-reading-time-sort="0.205">
+<a href="./publications/nelson_2016.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./publications/nelson_2016.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The resilience of reef invertebrate biodiversity to coral mortality
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('coral reef ecology'); return false;">
+coral reef ecology
+</div>
+</div>
+<div class="card-text listing-description">
+<img src="nelson_2016.png" class="img-fluid figure-img">
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Nelson, Kuempel, Altieri
+</div>
+<div class="listing-date">
+Jul 15, 2016
+</div>
+</div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

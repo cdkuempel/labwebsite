@@ -9,11 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - text: "People"
-        file: people.qmd
-      - data.qmd
+#      - text: "People"
+#        file: people.qmd
       - teaching.qmd
-      - media.qmd
       - contact.qmd
     
 format:

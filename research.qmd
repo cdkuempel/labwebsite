@@ -3,25 +3,26 @@ title: "Research"
 editor: visual
 ---
 
-## Sustainable seafood
+My research increases understanding and informs conservation decisions under three main themes: sustainable food production (particularly seafood), achieving conservation targets, and conservation planning (land-sea and . My background is in coral reef ecology, and I am particularly interested in how we can best conserve the world's oceans while considering the needs of the growing human population. 
 
-## Conservation planning
+# Publications, code and media
 
-## Coral reef ecology
+Click on projects below to find links to publications, code/data and media coverage.
 
-# Publications
+Please e-mail me if you do not have access to my work and I will gladly send you a PDF copy.
 
-Please e-mail me if you do not have access to my work and I will gladly e-mail you a PDF copy.
+I strongly believe in open, reproducible science. I strive to make all data and code from my projects publicly available, where possible. You can find all available materials hosted on github and linked below.
 
 ---
 listing:
   contents: [posts, publications]
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   sort-ui: true
   filter-ui: true
   feed: true
+  categories: true
 page-layout: full
 comments: false
 title-block-banner: true

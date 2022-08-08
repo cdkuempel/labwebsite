@@ -3,13 +3,30 @@
     "listing": "/research.html",
     "items": [
       "/publications/almaraz_2022.html",
-      "/publications/suarez_castro_2021.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/caitie_kuempel.html"
+      "/publications/clawson_2022.html",
+      "/publications/kuempel_2021.html",
+      "/publications/williams_2021.html",
+      "/publications/kuempel_2021_4.html",
+      "/publications/kuempel_2021_2.html",
+      "/publications/roberson_2021.html",
+      "/publications/suarez_castro_2021.html",
+      "/publications/kuempel_2021_3.html",
+      "/publications/cottrell_2021.html",
+      "/publications/adams_2020.html",
+      "/publications/kuempel_2020.html",
+      "/publications/chauvenet_2020.html",
+      "/publications/kuempel_2020_2.html",
+      "/publications/daigle_2019.html",
+      "/publications/halpern_2019.html",
+      "/publications/kuempel_2019.html",
+      "/publications/jantke_2018.html",
+      "/publications/jones_2018.html",
+      "/publications/kuempel_2017.html",
+      "/publications/campbell_2017.html",
+      "/publications/chauvenet_2017.html",
+      "/publications/kuempel_2017_2.html",
+      "/publications/kuempel_2016.html",
+      "/publications/nelson_2016.html"
     ]
   }
 ]
