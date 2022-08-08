@@ -28,7 +28,6 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -58,7 +57,7 @@ ul.task-list{list-style: none;}
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -97,34 +96,43 @@ ul.task-list{list-style: none;}
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-marquee">
+  <div class="about-image-container">
+    <img src="scifi_coral.jpeg" class="about-image " style="width: 100%;">
+  </div>
+  <div class="about-contents">
+    <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Contact</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-    
   </div>
-  
-
-</header>
-
-<p>I welcome potential honours and HDR (PhD and Masters) candidates interested in projects related to spatial planning, sustainable seafood, and environmental impact analysis.</p>
+</header> <main class="content" id="quarto-document-content">
+<p>I welcome potential honours and HDR (PhD and Masters) candidates interested in projects related to conservation planning, food production, and environmental impact.</p>
 <p>Please contact me to discuss potential projects. Expressions of interest for Griffith University scholarship rounds close in April and September annually.</p>
 
 
-
-</main> <!-- /main -->
+</main> 
+    <div class="about-footer"><div class="about-links">
+  <a href="mailto:c.kuempel@griffith.edu.au" class="about-link">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">E-mail</span>
+  </a>
+  <a href="https://twitter.com/cdkuempel" class="about-link">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">Twitter</span>
+  </a>
+  <a href="https://www.linkedin.com/in/caitie-kuempel-b86905110/" class="about-link">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+</div>
+</div>
+  </div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -145,13 +153,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

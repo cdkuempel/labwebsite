@@ -16,8 +16,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/caitie-kuempel-b86905110/
+    - icon: envelope
+      text: E-mail
+      href: "mailto:c.kuempel@griffith.edu.au"
 ---
 
-To decide what conservation actions to do where - we need to know what the greatest threats are to habitats and species and where they occur. Our research synthesizes new and existing data to quantify the what and where of human impacts on global biodiversity, with a particular emphasis on 1) the impacts of food production, 2) spatial conservation planning, 3) land-sea interactions and 4) achieving conservation targets. 
+To decide what conservation actions to do where - we need to know what the greatest threats to habitats and species are and where they occur. Our research synthesizes new and existing data to quantify the *what* and *where* of human impacts on biodiversity from local to global scales, with a particular emphasis on 1) the impacts of food production, 2) spatial conservation planning, 3) land-sea interactions and 4) achieving conservation targets. 
 
 

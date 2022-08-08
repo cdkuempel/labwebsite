@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Dr Caitie Kuempel"
+  site-url: www.conservationaction.com
   navbar:
     left:
       - href: index.qmd

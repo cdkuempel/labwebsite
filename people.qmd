@@ -19,15 +19,13 @@ about:
     href: https://www.linkedin.com/in/caitie-kuempel-b86905110/
 ---
 
-Our group will be growing - please get in touch if you are interested in joining our team or collaborating.
+## Our group will be growing - please get in touch if you are interested in joining our team or collaborating.
 
 ::: grid
 ::: g-col-4
-
-
-
 ![Dr Caitie Kuempel](Kuempel_headshot.jpg)
 :::
+
 ::: g-col-8
 I am currently a Lecturer in Ecological Modelling at Griffith Univeristy (Brisbane, Australia).
 
