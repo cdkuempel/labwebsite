@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-#      - text: "People"
-#        file: people.qmd
+      - text: "People"
+        file: people.qmd
       - teaching.qmd
       - contact.qmd
     

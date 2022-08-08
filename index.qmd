@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Conservation Action Team"
 about:
   template: marquee
   image: CoralSea.png
@@ -18,31 +18,6 @@ about:
       href: https://www.linkedin.com/in/caitie-kuempel-b86905110/
 ---
 
-::: {.grid}
-
-::: {.g-col-4}
-![Dr Caitie Kuempel](Kuempel_headshot.jpg)
-:::
-
-::: {.g-col-8}
-I am currently a Lecturer in Ecological Modelling at Griffith Univeristy (Brisbane, Australia).
-
-## Education
-
-**PhD in Conservation Science** \| Nov. 2014-Aug. 2018 University of Queensland, Brisbane, Australia
-
-**MSc Marine Biology** \| Aug. 2011 - Dec. 2012 Northeastern University, Boston, MA, USA
-
-**BSc Environmental Science** \| Aug. 2007-May 2011 **BA French** \| Aug. 2007-May 2012
-
-University of Iowa, Iowa City, IA, USA
-
-## Experience
-
-Please see my [CV](https://github.com/cdkuempel/CV/blob/master/CV.pdf) and [Griffith Expert](https://experts.griffith.edu.au/37253-caitie-kuempel) page for more information.
-
-:::
-
-:::
+To decide what conservation actions to do where - we need to know what the greatest threats are to habitats and species and where they occur. Our research synthesizes new and existing data to quantify the what and where of human impacts on global biodiversity, with a particular emphasis on 1) the impacts of food production, 2) spatial conservation planning, 3) land-sea interactions and 4) achieving conservation targets. 
 
 

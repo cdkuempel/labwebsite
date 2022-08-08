@@ -1,9 +1,9 @@
 ---
-title: "Dr Caitie Kuempel"
+title: ""
 editor: visual
-image: Kuempel_headshot.jpg
 about:
-  template: broadside
+  template: marquee
+  image: Diving_pic.jpg
   links:
   - icon: google
     text: GoogleScholar
@@ -19,6 +19,16 @@ about:
     href: https://www.linkedin.com/in/caitie-kuempel-b86905110/
 ---
 
+Our group will be growing - please get in touch if you are interested in joining our team or collaborating.
+
+::: grid
+::: g-col-4
+
+
+
+![Dr Caitie Kuempel](Kuempel_headshot.jpg)
+:::
+::: g-col-8
 I am currently a Lecturer in Ecological Modelling at Griffith Univeristy (Brisbane, Australia).
 
 ## Education
@@ -32,3 +42,7 @@ I am currently a Lecturer in Ecological Modelling at Griffith Univeristy (Brisba
 University of Iowa, Iowa City, IA, USA
 
 ## Experience
+
+Please see my [CV](https://github.com/cdkuempel/CV/blob/master/CV.pdf) and [Griffith Expert](https://experts.griffith.edu.au/37253-caitie-kuempel) page for more information.
+:::
+:::

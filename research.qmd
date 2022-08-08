@@ -3,7 +3,7 @@ title: "Research"
 editor: visual
 ---
 
-My research increases understanding and informs conservation decisions under three main themes: sustainable food production (particularly seafood), achieving conservation targets, and conservation planning (land-sea and . My background is in coral reef ecology, and I am particularly interested in how we can best conserve the world's oceans while considering the needs of the growing human population. 
+Our research increases understanding of human impacts and informs conservation decisions under three main themes: sustainable food production (particularly seafood), conservation planning, land-sea interactions, and achieving conservation targets. Our work is largely centered on how we can best conserve the world's oceans while considering the needs of the growing human population. 
 
 # Publications, code and media
 
