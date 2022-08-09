@@ -6,7 +6,7 @@ about:
   image: schooling_fish.jpeg
 ---
 
-Our research increases understanding of human impacts and informs conservation decisions under four main themes: sustainable food production (particularly seafood), conservation planning, land-sea interactions, and achieving conservation targets. Our work is largely centered on how we can best conserve the world's oceans while considering the needs of the growing human population. 
+Our research increases understanding of human impacts and informs conservation decisions under four main themes: sustainable food production (particularly seafood), conservation planning, land-sea interactions, and achieving conservation targets. Our work is largely centered on how we can best conserve the world's oceans while considering the needs of the growing human population.
 
 # Publications, code and media
 
