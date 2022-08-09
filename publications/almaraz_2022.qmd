@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2531) and [code](https://github.com/cdkuempel/protein_nitrogen) are available on-line.
 
+Nitrogen is a waste product of protein consumption that can impact the environment. We quantified how reducing protein consumption to recommended rates may reduce nitrogen loading in the United States.
+
 ![Impossible burger, credit Maya Almaraz](almaraz.jpg)
 
 ### Media coverage

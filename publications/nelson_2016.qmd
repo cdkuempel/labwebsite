@@ -8,8 +8,9 @@ categories:
   - coral reef ecology
 ---
 
-
 #### The published [paper](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1399) is available on-line.
+
+We surveyed coral reef invertebrates along a gradient of health to degraded coral reefs off the Caribbean coast of Panama to assess invertebrate biodiversity.
 
 ![Caitie and Hannah leaving for fieldwork in Bocas del Toro, Panama, credit Seamus Harrison](nelson_2016.png)
 

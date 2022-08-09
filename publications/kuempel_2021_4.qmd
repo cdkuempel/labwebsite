@@ -12,6 +12,8 @@ categories:
 
 #### The published [paper](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13856) and [data](https://github.com/cdkuempel/50_reefs_threats) are available on-line.
 
+We used the marine cumulative human footprint data to assess major threats to coral reefs that have been identified as being less exposed to climate change. We then reviewed common management practices and policies to explore the potential commitment of each country in reducing these threats.
+
 ![Pristine coral reefs in the Coral Sea, credit Caitie Kuempel](kuempel_2021_4.png)
 
 ![Infographic of main results, credit Blake Alexander Simmons](Reefs%20_infographic.png)

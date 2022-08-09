@@ -7,14 +7,15 @@ image: cottrell_2021.png
 categories:
   - sustainable food
   - aquaculture
-  - award
 ---
 
 #### The published [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12535) and [data](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1ZK5F42) are available on-line.
 
-This article was honored as a Sena de Silva paper which recognises high quality articles that excel in one, or more of the following qualities: i) Novelty and originality, ii) likelihood of direct positive impacts for the aquaculture sector, with keen focus on any of, or all three: environmental sustainability, economic viability, and social responsibility, iii) overall quality of scientific reasonings coupled with real-world applicability.
+We explored how the trophic level of farmed species has shifted in recent years due to feed composition - and implications of this in using trophic level as a sustainability measure.
 
 ![WorldFish staff feeding fish cages, credit WorldFish](cottrell_2021.png)
+
+This article was honored as a Sena de Silva paper which recognises high quality articles that excel in one, or more of the following qualities: i) Novelty and originality, ii) likelihood of direct positive impacts for the aquaculture sector, with keen focus on any of, or all three: environmental sustainability, economic viability, and social responsibility, iii) overall quality of scientific reasonings coupled with real-world applicability.
 
 ### Media coverage
 

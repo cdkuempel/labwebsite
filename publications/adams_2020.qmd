@@ -7,9 +7,12 @@ date: "December 8, 2020"
 categories:
   - conservation planning
   - MPA
+toc: false
 ---
 
 #### The published [paper](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.354) is available on-line.
+
+This paper explored challenges and opportunities of scheduling marine protected area implementation in Papua New Guinea
 
 ![Coral reefs in Papua New Guinea, credit Brocken Inaglory](adams_2020.jpeg)
 

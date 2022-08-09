@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://www.sciencedirect.com/science/article/pii/S0301479721023380) and [data](https://github.com/BAlexSimmons/mnWHA_data) are available on-line.
 
+We assessed representation and human impacts within the marine, natural World Heritage Area network to identify gaps and future priorities for World Heritage Convention listing.
+
 ![Coral reef flat in the Coral Sea, credit Caitie Kuempel](kuempel_2021.png)
 
 ![Infographic of main results, credit Blake Alexander Simmons](WHA_infographic.png)

@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://www.sciencedirect.com/science/article/pii/S2590332220302001) and [code](https://doi.org/10.5061/dryad.cfxpnvx2z) are available on-line.
 
+We explored strategies for ecoregional protection to meet the Convention on Biological Diversity Aichi Target of protecting 17% of terrestrial areas. We found protecting ecoregions closes to the 17% target was the most efficient strategy.
+
 ![Scenario outcomes for meeting protection targets, credit Ali Chauvenet](chauvenet_2020.png)
 
 ### Media coverage

@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://www.sciencedirect.com/science/article/pii/S0960982218307723) and [data](https://knb.ecoinformatics.org/view/doi:10.5063/F1RR1WFT) are available on-line.
 
+In this paper we identify "marine wilderness", or relatively undisturbed areas of the ocean, based on cumulative human footprint data and it's level of protection.
+
 ![Sand islet in the Coral Sea, credit Bruce Rocherieux](jones_2018.jpeg)
 
 ![Video abstract for Jones et al. 2018](jones_2018.mp4)

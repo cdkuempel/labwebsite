@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://www.sciencedirect.com/science/article/pii/S004484862200182X) and [data](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1ZK5F42) are available on-line.
 
+We combined existing and modeled data to produce the first global map of marine aquaculture.
+
 ![Map of global aquaculture, credit Clawson et al. 2022](clawson_2022.png)
 
 ### Media coverage
