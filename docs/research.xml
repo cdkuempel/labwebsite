@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Dr Caitie Kuempel</title>
-<link>www.conservationaction.com/research.html</link>
-<atom:link href="www.conservationaction.com/research.xml" rel="self" type="application/rss+xml"/>
+<link>cdkuempel.github.io/website/research.html</link>
+<atom:link href="cdkuempel.github.io/website/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.0.38</generator>
 <lastBuildDate>Mon, 20 Jun 2022 14:00:00 GMT</lastBuildDate>
 <item>
   <title>The impact of excessive protein consumption on human wastewater nitrogen loading of US waters</title>
   <dc:creator>Almaraz, Kuempel, Salter, Halpern, B.S.</dc:creator>
-  <link>www.conservationaction.com/publications/almaraz_2022.html</link>
+  <link>cdkuempel.github.io/website/publications/almaraz_2022.html</link>
   <description><![CDATA[ 
 
 
@@ -23,7 +23,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-code-are-available-on-line.">The published <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2531">paper</a> and <a href="https://github.com/cdkuempel/protein_nitrogen">code</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/almaraz.jpg" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/almaraz.jpg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Impossible burger, credit Maya Almaraz</figcaption><p></p>
 </figure>
 </div>
@@ -42,14 +42,14 @@
  ]]></description>
   <category>sustainable food</category>
   <category>land-sea conservation</category>
-  <guid>www.conservationaction.com/publications/almaraz_2022.html</guid>
+  <guid>cdkuempel.github.io/website/publications/almaraz_2022.html</guid>
   <pubDate>Mon, 20 Jun 2022 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/almaraz.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/almaraz.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Mapping the spatial distribution of global mariculture production</title>
   <dc:creator>Clawson, Kuempel, Frazier, Blasco, Cottrell, Froehlich, Metian, Nash, Tobben, Verstaen, Williams, Halpern</dc:creator>
-  <link>www.conservationaction.com/publications/clawson_2022.html</link>
+  <link>cdkuempel.github.io/website/publications/clawson_2022.html</link>
   <description><![CDATA[ 
 
 
@@ -58,7 +58,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-data-are-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S004484862200182X">paper</a> and <a href="https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1ZK5F42">data</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/clawson_2022.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/clawson_2022.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Map of global aquaculture, credit Clawson et al.&nbsp;2022</figcaption><p></p>
 </figure>
 </div>
@@ -77,14 +77,14 @@
  ]]></description>
   <category>sustainable food</category>
   <category>aquaculture</category>
-  <guid>www.conservationaction.com/publications/clawson_2022.html</guid>
+  <guid>cdkuempel.github.io/website/publications/clawson_2022.html</guid>
   <pubDate>Sat, 19 Feb 2022 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/clawson_2022.png" medium="image" type="image/png" height="53" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/clawson_2022.png" medium="image" type="image/png" height="53" width="144"/>
 </item>
 <item>
   <title>Assessing the status of existing and tentative marine World Heritage areas reveals opportunities to better achieve World Heritage convention goals</title>
   <dc:creator>Kuempel, Simmons, Davey.</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2021.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2021.html</link>
   <description><![CDATA[ 
 
 
@@ -93,13 +93,13 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-data-are-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S0301479721023380">paper</a> and <a href="https://github.com/BAlexSimmons/mnWHA_data">data</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2021.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2021.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Coral reef flat in the Coral Sea, credit Caitie Kuempel</figcaption><p></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/WHA_infographic.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/WHA_infographic.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Infographic of main results, credit Blake Alexander Simmons</figcaption><p></p>
 </figure>
 </div>
@@ -118,14 +118,14 @@
  ]]></description>
   <category>World Heritage</category>
   <category>cumulative impacts</category>
-  <guid>www.conservationaction.com/publications/kuempel_2021.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2021.html</guid>
   <pubDate>Tue, 07 Dec 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2021.png" medium="image" type="image/png" height="99" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2021.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
   <title>Global rarity of intact coastal regions</title>
   <dc:creator>Williams, Watson, Beyer, Klein, Montgomery, Runting, Roberson, Halpern, Grantham, Kuempel, Frazier, Venter, Wenger</dc:creator>
-  <link>www.conservationaction.com/publications/williams_2021.html</link>
+  <link>cdkuempel.github.io/website/publications/williams_2021.html</link>
   <description><![CDATA[ 
 
 
@@ -134,7 +134,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.13874">paper</a> is available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/williams_2021.jpb" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/williams_2021.jpb" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Portuguese coastline, credit Caitie Kuempel</figcaption><p></p>
 </figure>
 </div>
@@ -153,14 +153,14 @@
  ]]></description>
   <category>conservation planning</category>
   <category>land-sea conservation</category>
-  <guid>www.conservationaction.com/publications/williams_2021.html</guid>
+  <guid>cdkuempel.github.io/website/publications/williams_2021.html</guid>
   <pubDate>Thu, 02 Dec 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/williams_2021.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/williams_2021.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Identifying management opportunities to combat climate, land, and marine threats across less climate exposed coral reefs</title>
   <dc:creator>Kuempel, Tulloch, Giffin, Simmons, Hagger, Phua, Hoegh-Guldberg</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2021_4.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2021_4.html</link>
   <description><![CDATA[ 
 
 
@@ -169,13 +169,13 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-data-are-available-on-line.">The published <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13856">paper</a> and <a href="https://github.com/cdkuempel/50_reefs_threats">data</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2021_4.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2021_4.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Pristine coral reefs in the Coral Sea, credit Caitie Kuempel</figcaption><p></p>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/Reefs%20_infographic.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/Reefs%20_infographic.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Infographic of main results, credit Blake Alexander Simmons</figcaption><p></p>
 </figure>
 </div>
@@ -195,14 +195,14 @@
   <category>conservation planning</category>
   <category>cumulative impacts</category>
   <category>land-sea conservation</category>
-  <guid>www.conservationaction.com/publications/kuempel_2021_4.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2021_4.html</guid>
   <pubDate>Tue, 02 Nov 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2021_4.png" medium="image" type="image/png" height="102" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2021_4.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
   <title>Predicted protected area downsizing impedes conservation progress across terrestrial ecoregions in the tropics and subtropics</title>
   <dc:creator>Kuempel, Chauvenet, Symes, Possingham</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2021_2.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2021_2.html</link>
   <description><![CDATA[ 
 
 
@@ -211,7 +211,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.529">paper</a> is available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2021_2.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2021_2.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Map of global aquaculture, credit James Wheeler</figcaption><p></p>
 </figure>
 </div>
@@ -229,14 +229,14 @@
 
  ]]></description>
   <category>conservation targets</category>
-  <guid>www.conservationaction.com/publications/kuempel_2021_2.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2021_2.html</guid>
   <pubDate>Sun, 15 Aug 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2021_2.png" medium="image" type="image/png" height="85" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2021_2.png" medium="image" type="image/png" height="85" width="144"/>
 </item>
 <item>
   <title>Multinational coordination required for conservation of over 90% of marine species</title>
   <dc:creator>Roberson, Beyer, O'Hara, Watson, Dunn, Halpern, Klein, Frazier, Kuempel, Williams, Grantham, Montgomery, Kark, Runting</dc:creator>
-  <link>www.conservationaction.com/publications/roberson_2021.html</link>
+  <link>cdkuempel.github.io/website/publications/roberson_2021.html</link>
   <description><![CDATA[ 
 
 
@@ -245,7 +245,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-data-are-available-on-line.">The published <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15844">paper</a> and <a href="https://github.com/lroberson/transboundary_spp_pub">data</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/roberson_2021.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/roberson_2021.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">White tip reef shark in the Coral Sea, credit Caitie Kuempel</figcaption><p></p>
 </figure>
 </div>
@@ -263,14 +263,14 @@
 
  ]]></description>
   <category>conservation planning</category>
-  <guid>www.conservationaction.com/publications/roberson_2021.html</guid>
+  <guid>cdkuempel.github.io/website/publications/roberson_2021.html</guid>
   <pubDate>Wed, 04 Aug 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/roberson_2021.png" medium="image" type="image/png" height="107" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/roberson_2021.png" medium="image" type="image/png" height="107" width="144"/>
 </item>
 <item>
   <title>Global forest restoration opportunities to foster coral reef conservation</title>
   <dc:creator>Saurez-Castro, Beyer, Kuempel, Linke, Borrelli, Hoegh-Guldberg</dc:creator>
-  <link>www.conservationaction.com/publications/suarez_castro_2021.html</link>
+  <link>cdkuempel.github.io/website/publications/suarez_castro_2021.html</link>
   <description><![CDATA[ 
 
 
@@ -279,7 +279,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-sediment-layer-are-available-on-line.">The published <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15811">paper</a> and <a href="https://doi.org/10.5061/dryad.g4f4qrfqq">sediment layer</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/suarez.jpg" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/suarez.jpg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Sediment run-off on the coast of Queensland, credit Caitie Kuempel</figcaption><p></p>
 </figure>
 </div>
@@ -298,14 +298,14 @@
  ]]></description>
   <category>conservation planning</category>
   <category>land-sea conservation</category>
-  <guid>www.conservationaction.com/publications/suarez_castro_2021.html</guid>
+  <guid>cdkuempel.github.io/website/publications/suarez_castro_2021.html</guid>
   <pubDate>Sat, 26 Jun 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/suarez.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/suarez.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>An informed thought experiment exploring the potential for a paradigm shift in aquatic food production</title>
   <dc:creator>Kuempel, Froehlich, Halpern</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2021_3.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2021_3.html</link>
   <description><![CDATA[ 
 
 
@@ -314,7 +314,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/abs/pii/S0964569121000594">paper</a> is available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2021_3.jpeg" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2021_3.jpeg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Aquaculture in Chile, credit Gordon Leggett</figcaption><p></p>
 </figure>
 </div>
@@ -333,14 +333,14 @@
  ]]></description>
   <category>sustainable food</category>
   <category>aquaculture</category>
-  <guid>www.conservationaction.com/publications/kuempel_2021_3.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2021_3.html</guid>
   <pubDate>Mon, 15 Feb 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2021_3.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2021_3.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Time to rethink tropic levels in aquaculture policy</title>
   <dc:creator>Cottrell, Metian, Froehlich, Blanchard, Jacobsen, McIntyre, Nash, Williams Bouwman, Gephart, Kuempel, Moran, Troell, Halpern</dc:creator>
-  <link>www.conservationaction.com/publications/cottrell_2021.html</link>
+  <link>cdkuempel.github.io/website/publications/cottrell_2021.html</link>
   <description><![CDATA[ 
 
 
@@ -350,7 +350,7 @@
 <p>This article was honored as a Sena de Silva paper which recognises high quality articles that excel in one, or more of the following qualities: i) Novelty and originality, ii) likelihood of direct positive impacts for the aquaculture sector, with keen focus on any of, or all three: environmental sustainability, economic viability, and social responsibility, iii) overall quality of scientific reasonings coupled with real-world applicability.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/cottrell_2021.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/cottrell_2021.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">WorldFish staff feeding fish cages, credit WorldFish</figcaption><p></p>
 </figure>
 </div>
@@ -369,24 +369,24 @@
  ]]></description>
   <category>sustainable food</category>
   <category>aquaculture</category>
-  <category>award</category>
-  <guid>www.conservationaction.com/publications/cottrell_2021.html</guid>
+  <guid>cdkuempel.github.io/website/publications/cottrell_2021.html</guid>
   <pubDate>Thu, 07 Jan 2021 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/cottrell_2021.png" medium="image" type="image/png" height="95" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/cottrell_2021.png" medium="image" type="image/png" height="95" width="144"/>
 </item>
 <item>
   <title>Scheduling incremental actions to build a comprehensive national protected area network for Papua New Guinea</title>
   <dc:creator>Adams, Dimitrova, Possingham, Allan, Kuempel, Peterson, Kaiye, Keako, Tulloch</dc:creator>
-  <link>www.conservationaction.com/publications/adams_2020.html</link>
+  <link>cdkuempel.github.io/website/publications/adams_2020.html</link>
   <description><![CDATA[ 
 
 
 
 <section id="the-published-paper-is-available-on-line." class="level4">
 <h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.354">paper</a> is available on-line.</h4>
+<p>This paper explored challenges and opportunities of scheduling marine protected area implementation in Papua New Guinea</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/adams_2020.jpeg" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/adams_2020.jpeg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Coral reefs in Papua New Guinea, credit Brocken Inaglory</figcaption><p></p>
 </figure>
 </div>
@@ -405,14 +405,14 @@
  ]]></description>
   <category>conservation planning</category>
   <category>MPA</category>
-  <guid>www.conservationaction.com/publications/adams_2020.html</guid>
+  <guid>cdkuempel.github.io/website/publications/adams_2020.html</guid>
   <pubDate>Mon, 07 Dec 2020 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/adams_2020.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/adams_2020.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Integrating life cycle and impact assessments to map food’s cumulative environmental footprint</title>
   <dc:creator>Kuempel, Frazier, Nash, Jacobsen, Williams, Blanchard, Cottrell, McIntyre, Moran, Bouwman, Forhelich, Gephart, Metian, Tobben, Halpern</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2020.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2020.html</link>
   <description><![CDATA[ 
 
 
@@ -421,7 +421,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-data-are-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S2590332220303031">paper</a> and <a href="https://knb.ecoinformatics.org/view/doi:10.5063/F1PZ575B">data</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2020.jpg" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2020.jpg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Graphical abstract illustrating a simplified methodlogy, credit Kirsty Nash</figcaption><p></p>
 </figure>
 </div>
@@ -440,14 +440,14 @@
  ]]></description>
   <category>sustainable food</category>
   <category>cumulative impacts</category>
-  <guid>www.conservationaction.com/publications/kuempel_2020.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2020.html</guid>
   <pubDate>Thu, 23 Jul 2020 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2020.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2020.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>To achieve big wins for terrestrial conservation, prioritize protection of ecoregions clostest to meeting targets</title>
   <dc:creator>Chauvenet, Watson, Adams, Di Marco, Venter, Davis, Mapping, Klein, Kuempel, Possingham</dc:creator>
-  <link>www.conservationaction.com/publications/chauvenet_2020.html</link>
+  <link>cdkuempel.github.io/website/publications/chauvenet_2020.html</link>
   <description><![CDATA[ 
 
 
@@ -456,7 +456,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-code-are-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S2590332220302001">paper</a> and <a href="https://doi.org/10.5061/dryad.cfxpnvx2z">code</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/chauvenet_2020.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/chauvenet_2020.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Scenario outcomes for meeting protection targets, credit Ali Chauvenet</figcaption><p></p>
 </figure>
 </div>
@@ -475,14 +475,14 @@
  ]]></description>
   <category>conservation planning</category>
   <category>conservation targets</category>
-  <guid>www.conservationaction.com/publications/chauvenet_2020.html</guid>
+  <guid>cdkuempel.github.io/website/publications/chauvenet_2020.html</guid>
   <pubDate>Thu, 21 May 2020 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/chauvenet_2020.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/chauvenet_2020.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Evidence-based guidelines for prioritizing investments to meet international conservation objectives</title>
   <dc:creator>Kuempel, Chauvenet, Possingham, Adams.</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2020_2.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2020_2.html</link>
   <description><![CDATA[ 
 
 
@@ -491,7 +491,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S2590332219302726">paper</a> is available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2020_2.jpg" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2020_2.jpg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Graphic abstract showing the system model, credit Kuempel et al.&nbsp;2020</figcaption><p></p>
 </figure>
 </div>
@@ -509,14 +509,14 @@
 
  ]]></description>
   <category>conservation targets</category>
-  <guid>www.conservationaction.com/publications/kuempel_2020_2.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2020_2.html</guid>
   <pubDate>Thu, 23 Jan 2020 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2020_2.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2020_2.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Operationalizing ecological connectivity in spatial conservation planning with Marxan Connect</title>
   <dc:creator>Daigle, Metaxas, Balbar, McGowan, Treml, Kuempel, Possingham, Beger</dc:creator>
-  <link>www.conservationaction.com/publications/daigle_2019.html</link>
+  <link>cdkuempel.github.io/website/publications/daigle_2019.html</link>
   <description><![CDATA[ 
 
 
@@ -526,7 +526,7 @@
 <p>This paper was recognised as a top cited article in the journal Methods in Ecolovy and Evolution in 2022.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/daigle_2019.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/daigle_2019.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Marxan Connect logo, credit Remi Daigle</figcaption><p></p>
 </figure>
 </div>
@@ -544,14 +544,14 @@
 
  ]]></description>
   <category>conservation planning</category>
-  <guid>www.conservationaction.com/publications/daigle_2019.html</guid>
+  <guid>cdkuempel.github.io/website/publications/daigle_2019.html</guid>
   <pubDate>Tue, 17 Dec 2019 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/daigle_2019.png" medium="image" type="image/png" height="82" width="75"/>
+  <media:content url="cdkuempel.github.io/website/publications/daigle_2019.png" medium="image" type="image/png" height="82" width="75"/>
 </item>
 <item>
   <title>Putting all foods on the same table: Achieving sustainable food systems requires full accounting</title>
   <dc:creator>Halpern, Cottrell, Blanchard, Bouwman, Forhelich, Gephart, Jacobsen, Kuempel, McIntyre, Metian, Moran, Nash, Tobben, Williams</dc:creator>
-  <link>www.conservationaction.com/publications/halpern_2019.html</link>
+  <link>cdkuempel.github.io/website/publications/halpern_2019.html</link>
   <description><![CDATA[ 
 
 
@@ -560,7 +560,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1913308116">paper</a> is available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/halpern_2019.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/halpern_2019.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Putting all food on the same table, credit Shutterstock/Olga Klochanko</figcaption><p></p>
 </figure>
 </div>
@@ -578,14 +578,14 @@
 
  ]]></description>
   <category>sustainable food</category>
-  <guid>www.conservationaction.com/publications/halpern_2019.html</guid>
+  <guid>cdkuempel.github.io/website/publications/halpern_2019.html</guid>
   <pubDate>Mon, 09 Sep 2019 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/halpern_2019.png" medium="image" type="image/png" height="64" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/halpern_2019.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 <item>
   <title>Quantifying biases in marine protected area placement relative to abatable threats</title>
   <dc:creator>Kuempel, Jones, Watson, Possingham</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2019.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2019.html</link>
   <description><![CDATA[ 
 
 
@@ -595,7 +595,7 @@
 <p>This work was recognised as a highly cited article in the journal Conservation Biology in 2020.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2019.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2019.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Caitie presenting at ICCB 2018 in Cartegena, Colombia, credit Courtney Morgans</figcaption><p></p>
 </figure>
 </div>
@@ -614,14 +614,14 @@
  ]]></description>
   <category>conservation targets</category>
   <category>conservation planning</category>
-  <guid>www.conservationaction.com/publications/kuempel_2019.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2019.html</guid>
   <pubDate>Tue, 12 Mar 2019 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2019.png" medium="image" type="image/png" height="105" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2019.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Metrics for evaluating representation target achievement in protected area networks</title>
   <dc:creator>Jantke, Kuempel, McGowan, Chauvenet, Possingham</dc:creator>
-  <link>www.conservationaction.com/publications/jantke_2018.html</link>
+  <link>cdkuempel.github.io/website/publications/jantke_2018.html</link>
   <description><![CDATA[ 
 
 
@@ -631,7 +631,7 @@
 <p>The metrics in this paper have been adopted by the European Comission Digital Observatory for Protected Areas to measure representation achievement. See <a href="https://dopa.jrc.ec.europa.eu/var/www/app/app/static/dopa/files/factsheets/en/DOPA%20Factsheet%20B4%20EN%20Representativity%20by%20Protected%20Areas.pdf">here</a> for more information.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/jantke_2018.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/jantke_2018.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Australia’s network of Commonwealth marine reserves, credit Commonwealth Australia</figcaption><p></p>
 </figure>
 </div>
@@ -650,14 +650,14 @@
  ]]></description>
   <category>conservation planning</category>
   <category>conservation targets</category>
-  <guid>www.conservationaction.com/publications/jantke_2018.html</guid>
+  <guid>cdkuempel.github.io/website/publications/jantke_2018.html</guid>
   <pubDate>Wed, 03 Oct 2018 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/jantke_2018.png" medium="image" type="image/png" height="100" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/jantke_2018.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
   <title>The location and protection status of Earth’s diminishing marine wilderness</title>
   <dc:creator>Jones, Klein, Halpern, Venter, Grantham, Kuempel, Shumway, Friedlander, Possingham, Watson</dc:creator>
-  <link>www.conservationaction.com/publications/jones_2018.html</link>
+  <link>cdkuempel.github.io/website/publications/jones_2018.html</link>
   <description><![CDATA[ 
 
 
@@ -666,7 +666,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-data-are-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S0960982218307723">paper</a> and <a href="https://knb.ecoinformatics.org/view/doi:10.5063/F1RR1WFT">data</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/jones_2018.jpeg" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/jones_2018.jpeg" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Sand islet in the Coral Sea, credit Bruce Rocherieux</figcaption><p></p>
 </figure>
 </div>
@@ -691,14 +691,14 @@
  ]]></description>
   <category>conservation planning</category>
   <category>cumulative impacts</category>
-  <guid>www.conservationaction.com/publications/jones_2018.html</guid>
+  <guid>cdkuempel.github.io/website/publications/jones_2018.html</guid>
   <pubDate>Sun, 05 Aug 2018 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/jones_2018.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/jones_2018.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Bigger or better: The relative benefits of protected area network expansion and enforcement for the conservation of an exploited species</title>
   <dc:creator>Kuempel, Adams, Possingham, Bode</dc:creator>
-  <link>www.conservationaction.com/publications/kuempel_2017.html</link>
+  <link>cdkuempel.github.io/website/publications/kuempel_2017.html</link>
   <description><![CDATA[ 
 
 
@@ -707,7 +707,7 @@
 <h4 class="anchored" data-anchor-id="the-published-paper-and-code-are-available-on-line.">The published <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12433">paper</a> and <a href="https://doi.org/10.5281/zenodo.1068314">code</a> are available on-line.</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="www.conservationaction.com/publications/kuempel_2017.png" class="img-fluid figure-img"></p>
+<p><img src="cdkuempel.github.io/website/publications/kuempel_2017.png" class="img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">Schematic of population model, credit Kuempel et al.&nbsp;2017</figcaption><p></p>
 </figure>
 </div>
@@ -725,9 +725,9 @@
 
  ]]></description>
   <category>conservation targets</category>
-  <guid>www.conservationaction.com/publications/kuempel_2017.html</guid>
+  <guid>cdkuempel.github.io/website/publications/kuempel_2017.html</guid>
   <pubDate>Fri, 08 Dec 2017 14:00:00 GMT</pubDate>
-  <media:content url="www.conservationaction.com/publications/kuempel_2017.png" medium="image" type="image/png" height="90" width="144"/>
+  <media:content url="cdkuempel.github.io/website/publications/kuempel_2017.png" medium="image" type="image/png" height="90" width="144"/>
 </item>
 </channel>
 </rss>

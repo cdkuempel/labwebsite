@@ -10,6 +10,8 @@ categories:
 
 #### The published [paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13349) is available on-line. For more information, including installation instructions, glossry and tutorials visit the Marxan Connect [website](https://marxanconnect.ca/).
 
+In this paper, we introduce Marxan Connect - a spatial prioritisation tool for incorporating connectivity into spatial planning.
+
 This paper was recognised as a top cited article in the journal Methods in Ecolovy and Evolution in 2022.
 
 ![Marxan Connect logo, credit Remi Daigle](daigle_2019.png)

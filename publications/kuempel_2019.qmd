@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13340) is available on-line.
 
+We quantified marine protected area establishment relative to abatable threats (i.e., threats that MPAs can stop, like fishing). We found that most of the global MPA network avoids abatable threats and discuss the conservation implications.
+
 This work was recognised as a highly cited article in the journal Conservation Biology in 2020.
 
 ![Caitie presenting at ICCB 2018 in Cartegena, Colombia, credit Courtney Morgans](kuempel_2019.png)

@@ -10,6 +10,8 @@ categories:
 
 #### The published [paper](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12433) and [code](https://doi.org/10.5281/zenodo.1068314) are available on-line.
 
+In this paper, we developed a theoretical model to understand whether it is better to increase management in existing protected areas or expand the protected area network to conserve an exploited species.
+
 ![Schematic of population model, credit Kuempel et al. 2017](kuempel_2017.png)
 
 ### Media coverage

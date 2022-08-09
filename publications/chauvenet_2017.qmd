@@ -10,6 +10,8 @@ categories:
 
 #### The published [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171591) is available on-line. The R package used to calculate the Protection Equality metric can be found [here](https://github.com/AChauvenet/ProtectEqual).
 
+We developed the ProtectEqual R package to easily implement the protection equality metric. This metric measures the evennes of habitat representation in protected areas.
+
 To install the package use devtools::install_github("AChauvenet/ProtectEqual")
 
 ![Protection Equality curve](chauvenet_2017.png)

@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://www.sciencedirect.com/science/article/pii/S2590332220303031) and [data](https://knb.ecoinformatics.org/view/doi:10.5063/F1PZ575B) are available on-line.
 
+This paper presents a methodology for integrating life-cycle assessments with impact mapping to quantify and map the cumulative pressure of food production.
+
 ![Graphical abstract illustrating a simplified methodlogy, credit Kirsty Nash](kuempel_2020.jpg)
 
 ### Media coverage

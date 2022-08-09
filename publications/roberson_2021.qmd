@@ -8,8 +8,9 @@ categories:
   - conservation planning
 ---
 
-
 #### The published [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15844) and [data](https://github.com/lroberson/transboundary_spp_pub) are available on-line.
+
+This work quantified the number of transboundary (i.e., crossing multiple EEZs) marine species based on aquamaps species distribution data.
 
 ![White tip reef shark in the Coral Sea, credit Caitie Kuempel](roberson_2021.png)
 

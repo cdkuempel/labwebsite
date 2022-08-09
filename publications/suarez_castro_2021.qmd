@@ -11,6 +11,8 @@ categories:
 
 #### The published [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15811) and [sediment layer](https://doi.org/10.5061/dryad.g4f4qrfqq) are available on-line.
 
+We developed a global sediment run-off model and used this to estimate the impact of terrestrial sediment on coral reefs globally.
+
 ![Sediment run-off on the coast of Queensland, credit Caitie Kuempel](suarez.jpg)
 
 ### Media coverage
@@ -22,4 +24,3 @@ The Altmetric Attention Score for a research output provides an indicator of the
 ```
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1111/gcb.15811"}
 :::
-
