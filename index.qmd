@@ -21,6 +21,6 @@ about:
       href: "mailto:c.kuempel@griffith.edu.au"
 ---
 
-To decide what conservation actions to do where - we need to know what the greatest threats to habitats and species are and where they occur. Our research synthesizes new and existing data to quantify the *what* and *where* of human impacts on biodiversity from local to global scales, with a particular emphasis on 1) the impacts of food production, 2) spatial conservation planning, 3) land-sea interactions and 4) achieving conservation targets. This work can then be used to quantify patterns between different locations, assess trade-offs between management actions, and inform conservation decisions.
+Ecosystems are increasingly threatened by human activities that can interact at different scales. The future of these ecosystems relies on actions to guide sustainable use and conservation of resources and biodiversity. In the Conservation Action Team, our research synthesizes new and existing data to quantify the *what* and *where* of human impacts on biodiversity from local to global scales, with a particular emphasis on 1) food production, 2) spatial conservation planning, 3) land-sea interactions and 4) achieving conservation targets. This work can then be used to quantify patterns between different locations, assess trade-offs between management actions, and inform conservation and sustainable development decisions.
 
 
