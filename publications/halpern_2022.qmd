@@ -1,0 +1,13 @@
+---
+title: "The environmental footprint of global food production"
+author: "Halpern, Frazier, Verstaen...Kuempel, et al. 2022"
+editor: visual
+image: halpern_2022.jpg
+date: "October 24, 2022"
+categories:
+  - sustainable food
+---
+
+#### The published [paper](https://www.nature.com/articles/s41893-022-00965-x) and [code](https://github.com/OHI-Science/global_food_pressures) are available on-line.
+
+We quantified pressures resulting from food production (cover 99% of food produced) including greenhouse gas emissions, freshwater use, nutrient pollution, and spatial disturbance. We then created a cumulative index to identify hotspots and relative efficiencies in production between sectors and locations.

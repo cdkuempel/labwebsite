@@ -1,0 +1,15 @@
+---
+title: "Rights and representation support justice across aquatic food systems"
+author: "Hicks, Gephart, Koehn....Kuempel..et al.,"
+editor: visual
+image: hicks.png
+date: "October 18, 2022"
+categories:
+  - sustainable food
+---
+
+#### The published [paper](https://www.nature.com/articles/s43016-022-00618-4) and [code](https://github.com/zachkoehn/aquatic_food_justice_model) are available on-line.
+
+Blue foods support diets and livelihoods for billiones of people, but are unequal in their benefits. We assess economic, political and social barriers impacting participation in blue food produciton across 195 countries and found trade-offs between wealth-generating and welfare-sutaining benefits can threaten food security.
+
+![credit Khanh Hmoong](hicks.png)

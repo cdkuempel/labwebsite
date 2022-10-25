@@ -10,7 +10,109 @@
 <atom:link href="cdkuempel.github.io/website/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.0.38</generator>
-<lastBuildDate>Mon, 20 Jun 2022 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Oct 2022 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>The environmental footprint of global food production</title>
+  <dc:creator>Halpern, Frazier, Verstaen...Kuempel, et al. 2022</dc:creator>
+  <link>cdkuempel.github.io/website/publications/halpern_2022.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="the-published-paper-and-code-are-available-on-line." class="level4">
+<h4 class="anchored" data-anchor-id="the-published-paper-and-code-are-available-on-line.">The published <a href="https://www.nature.com/articles/s41893-022-00965-x">paper</a> and <a href="https://github.com/OHI-Science/global_food_pressures">code</a> are available on-line.</h4>
+<p>We quantified pressures resulting from food production (cover 99% of food produced) including greenhouse gas emissions, freshwater use, nutrient pollution, and spatial disturbance. We then created a cumulative index to identify hotspots and relative efficiencies in production between sectors and locations.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>sustainable food</category>
+  <guid>cdkuempel.github.io/website/publications/halpern_2022.html</guid>
+  <pubDate>Sun, 23 Oct 2022 14:00:00 GMT</pubDate>
+  <media:content url="cdkuempel.github.io/website/publications/halpern_2022.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Rights and representation support justice across aquatic food systems</title>
+  <dc:creator>Hicks, Gephart, Koehn....Kuempel..et al.,</dc:creator>
+  <link>cdkuempel.github.io/website/publications/hicks_2022.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="the-published-paper-and-code-are-available-on-line." class="level4">
+<h4 class="anchored" data-anchor-id="the-published-paper-and-code-are-available-on-line.">The published <a href="https://www.nature.com/articles/s43016-022-00618-4">paper</a> and <a href="https://github.com/zachkoehn/aquatic_food_justice_model">code</a> are available on-line.</h4>
+<p>Blue foods support diets and livelihoods for billiones of people, but are unequal in their benefits. We assess economic, political and social barriers impacting participation in blue food produciton across 195 countries and found trade-offs between wealth-generating and welfare-sutaining benefits can threaten food security.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="cdkuempel.github.io/website/publications/hicks.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">credit Khanh Hmoong</figcaption><p></p>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>sustainable food</category>
+  <guid>cdkuempel.github.io/website/publications/hicks_2022.html</guid>
+  <pubDate>Mon, 17 Oct 2022 14:00:00 GMT</pubDate>
+  <media:content url="cdkuempel.github.io/website/publications/hicks.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
+<item>
+  <title>Global fishing between jurisdictions with unequal fisheries management</title>
+  <dc:creator>Klein, Kuempel, Watson, Teneva, Coll and Mora</dc:creator>
+  <link>cdkuempel.github.io/website/publications/klein_2022.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="the-published-paper-and-code-are-available-on-line." class="level4">
+<h4 class="anchored" data-anchor-id="the-published-paper-and-code-are-available-on-line.">The published <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac97ab">paper</a> and <a href="https://github.com/cdkuempel/Klein_unequal_seafood">code</a> are available on-line.</h4>
+<p>Fisheries can cause environmental degradation. These impacts can be displaced when one country fishes in another country’s waters. This may be particularly problematic when the fished country has less ability to manage it’s fisheries or marine resources than the fishiing country. We quantified the extent of “unequal” fishing displacement between countries to assess the countries who participate the most in this practice and the countries that potential are the most impacted.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="cdkuempel.github.io/website/publications/klein_2022.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Schematic of unequal fishing, credit Blake Alexander Simmons</figcaption><p></p>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>sustainable food</category>
+  <guid>cdkuempel.github.io/website/publications/klein_2022.html</guid>
+  <pubDate>Fri, 14 Oct 2022 14:00:00 GMT</pubDate>
+  <media:content url="cdkuempel.github.io/website/publications/klein_2022.png" medium="image" type="image/png" height="133" width="144"/>
+</item>
+<item>
+  <title>Demystifying ecological connectivity for actional spatial conservation planning</title>
+  <dc:creator>Beger, Metaxas, Balbar, McGowan, Daigle, Kuempel, Treml, Possingham</dc:creator>
+  <link>cdkuempel.github.io/website/publications/beger_2022.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="the-published-paper-is-available-on-line." class="level4">
+<h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S0169534722002221">paper</a> is available on-line.</h4>
+<p>There is a disconnect between global high-level conservation goals and onthe-ground actions such as maintaining ecosystem services or planning for protected areas, particularly for connectivity goals. We show how connectivity can be included in conservation planning objectives and connected to high-level goals.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="cdkuempel.github.io/website/publications/beger.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Schematic of connections between high-level goals and spatial planning processes, credit Ari Balbar</figcaption><p></p>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>land-sea conservation</category>
+  <guid>cdkuempel.github.io/website/publications/beger_2022.html</guid>
+  <pubDate>Tue, 27 Sep 2022 14:00:00 GMT</pubDate>
+  <media:content url="cdkuempel.github.io/website/publications/beger.png" medium="image" type="image/png" height="63" width="144"/>
+</item>
 <item>
   <title>The impact of excessive protein consumption on human wastewater nitrogen loading of US waters</title>
   <dc:creator>Almaraz, Kuempel, Salter, Halpern, B.S.</dc:creator>
@@ -596,156 +698,6 @@
   <guid>cdkuempel.github.io/website/publications/halpern_2019.html</guid>
   <pubDate>Mon, 09 Sep 2019 14:00:00 GMT</pubDate>
   <media:content url="cdkuempel.github.io/website/publications/halpern_2019.png" medium="image" type="image/png" height="64" width="144"/>
-</item>
-<item>
-  <title>Quantifying biases in marine protected area placement relative to abatable threats</title>
-  <dc:creator>Kuempel, Jones, Watson, Possingham</dc:creator>
-  <link>cdkuempel.github.io/website/publications/kuempel_2019.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="the-published-paper-is-available-on-line." class="level4">
-<h4 class="anchored" data-anchor-id="the-published-paper-is-available-on-line.">The published <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13340">paper</a> is available on-line.</h4>
-<p>We quantified marine protected area establishment relative to abatable threats (i.e., threats that MPAs can stop, like fishing). We found that most of the global MPA network avoids abatable threats and discuss the conservation implications.</p>
-<p>This work was recognised as a highly cited article in the journal Conservation Biology in 2020.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="cdkuempel.github.io/website/publications/kuempel_2019.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Caitie presenting at ICCB 2018 in Cartegena, Colombia, credit Courtney Morgans</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="media-coverage" class="level3">
-<h3 class="anchored" data-anchor-id="media-coverage">Media coverage</h3>
-<p>The Altmetric Attention Score for a research output provides an indicator of the amount of attention that it has received.</p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1111/cobi.13340">
-
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>conservation targets</category>
-  <category>conservation planning</category>
-  <guid>cdkuempel.github.io/website/publications/kuempel_2019.html</guid>
-  <pubDate>Tue, 12 Mar 2019 14:00:00 GMT</pubDate>
-  <media:content url="cdkuempel.github.io/website/publications/kuempel_2019.png" medium="image" type="image/png" height="105" width="144"/>
-</item>
-<item>
-  <title>Metrics for evaluating representation target achievement in protected area networks</title>
-  <dc:creator>Jantke, Kuempel, McGowan, Chauvenet, Possingham</dc:creator>
-  <link>cdkuempel.github.io/website/publications/jantke_2018.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="the-published-paper-and-data-including-the-constarget-r-package-are-available-on-line." class="level4">
-<h4 class="anchored" data-anchor-id="the-published-paper-and-data-including-the-constarget-r-package-are-available-on-line.">The published <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12853">paper</a> and <a href="https://github.com/KerstinJantke/ConsTarget">data</a>, including the “ConsTarget” R package, are available on-line.</h4>
-<p>The metrics in this paper have been adopted by the European Comission Digital Observatory for Protected Areas to measure representation achievement. See <a href="https://dopa.jrc.ec.europa.eu/var/www/app/app/static/dopa/files/factsheets/en/DOPA%20Factsheet%20B4%20EN%20Representativity%20by%20Protected%20Areas.pdf">here</a> for more information.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="cdkuempel.github.io/website/publications/jantke_2018.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Australia’s network of Commonwealth marine reserves, credit Commonwealth Australia</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="media-coverage" class="level3">
-<h3 class="anchored" data-anchor-id="media-coverage">Media coverage</h3>
-<p>The Altmetric Attention Score for a research output provides an indicator of the amount of attention that it has received.</p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1111/ddi.12853">
-
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>conservation planning</category>
-  <category>conservation targets</category>
-  <guid>cdkuempel.github.io/website/publications/jantke_2018.html</guid>
-  <pubDate>Wed, 03 Oct 2018 14:00:00 GMT</pubDate>
-  <media:content url="cdkuempel.github.io/website/publications/jantke_2018.png" medium="image" type="image/png" height="100" width="144"/>
-</item>
-<item>
-  <title>The location and protection status of Earth’s diminishing marine wilderness</title>
-  <dc:creator>Jones, Klein, Halpern, Venter, Grantham, Kuempel, Shumway, Friedlander, Possingham, Watson</dc:creator>
-  <link>cdkuempel.github.io/website/publications/jones_2018.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="the-published-paper-and-data-are-available-on-line." class="level4">
-<h4 class="anchored" data-anchor-id="the-published-paper-and-data-are-available-on-line.">The published <a href="https://www.sciencedirect.com/science/article/pii/S0960982218307723">paper</a> and <a href="https://knb.ecoinformatics.org/view/doi:10.5063/F1RR1WFT">data</a> are available on-line.</h4>
-<p>In this paper we identify “marine wilderness”, or relatively undisturbed areas of the ocean, based on cumulative human footprint data and it’s level of protection.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="cdkuempel.github.io/website/publications/jones_2018.jpeg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Sand islet in the Coral Sea, credit Bruce Rocherieux</figcaption><p></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><video src="jones_2018.mp4" class="img-fluid" controls=""><a href="jones_2018.mp4">Video</a></video></p>
-<p></p><figcaption class="figure-caption">Video abstract for Jones et al.&nbsp;2018</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="media-coverage" class="level3">
-<h3 class="anchored" data-anchor-id="media-coverage">Media coverage</h3>
-<p>The Altmetric Attention Score for a research output provides an indicator of the amount of attention that it has received.</p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.cub.2018.06.010">
-
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>conservation planning</category>
-  <category>cumulative impacts</category>
-  <guid>cdkuempel.github.io/website/publications/jones_2018.html</guid>
-  <pubDate>Sun, 05 Aug 2018 14:00:00 GMT</pubDate>
-  <media:content url="cdkuempel.github.io/website/publications/jones_2018.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Bigger or better: The relative benefits of protected area network expansion and enforcement for the conservation of an exploited species</title>
-  <dc:creator>Kuempel, Adams, Possingham, Bode</dc:creator>
-  <link>cdkuempel.github.io/website/publications/kuempel_2017.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="the-published-paper-and-code-are-available-on-line." class="level4">
-<h4 class="anchored" data-anchor-id="the-published-paper-and-code-are-available-on-line.">The published <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12433">paper</a> and <a href="https://doi.org/10.5281/zenodo.1068314">code</a> are available on-line.</h4>
-<p>In this paper, we developed a theoretical model to understand whether it is better to increase management in existing protected areas or expand the protected area network to conserve an exploited species.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="cdkuempel.github.io/website/publications/kuempel_2017.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Schematic of population model, credit Kuempel et al.&nbsp;2017</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="media-coverage" class="level3">
-<h3 class="anchored" data-anchor-id="media-coverage">Media coverage</h3>
-<p>The Altmetric Attention Score for a research output provides an indicator of the amount of attention that it has received.</p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1111/conl.12433">
-
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>conservation targets</category>
-  <guid>cdkuempel.github.io/website/publications/kuempel_2017.html</guid>
-  <pubDate>Fri, 08 Dec 2017 14:00:00 GMT</pubDate>
-  <media:content url="cdkuempel.github.io/website/publications/kuempel_2017.png" medium="image" type="image/png" height="90" width="144"/>
 </item>
 </channel>
 </rss>
