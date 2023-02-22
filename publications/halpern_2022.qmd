@@ -23,5 +23,3 @@ The Altmetric Attention Score for a research output provides an indicator of the
 ```
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.cub.2018.06.010"}
 :::
-
-
