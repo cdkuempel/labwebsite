@@ -23,7 +23,7 @@ about:
 
 ::: grid
 ::: g-col-4
-![Dr Caitie Kuempel](Kuempel_headshot.jpg)
+![Dr Caitie Kuempel](people/Kuempel_headshot.jpg)
 :::
 
 ::: g-col-8
@@ -49,16 +49,12 @@ Please see my [CV](https://github.com/cdkuempel/CV/blob/master/CV.pdf) and [Grif
 :::
 :::
 
-
-
-
 ::: grid
 ::: g-col-4
-![Dr Jackson Stockbridge](Jackson_Stockbridge.png)
+![Dr Jackson Stockbridge](people/Jackson_Stockbridge.png)
 :::
 
 ::: g-col-8
-
 ## **Dr Jackson Stockbridge**
 
 Jackson is a post-doctoral researcher with the [Blue Economy Cooperative Research Centre](https://blueeconomycrc.com.au/).

@@ -1,0 +1,23 @@
+---
+title: "The environmental footprint of global food production"
+author: "Halpern, Frazier, Verstaen...Kuempel, et al. 2022"
+editor: visual
+image: kuempel_chicken_salmon_2023.png
+date: "October 24, 2022"
+categories:
+  - sustainable food
+---
+
+\#### The published \[paper\](https://www.cell.com/current-biology/pdf/S0960-9822(23)00071-4.pdf) and \[code\](https://github.com/cdkuempel/Kuempel_chicken_salmon) are available on-line. We quantified pressures of commercial broiler chicken and farmed salmon production including greenhouse gas emissions, freshwater use, nutrient pollution, and spatial disturbance to compare cumulative environmental footprints across the land and sea.
+
+![](publications/kuempel_chicken_salmon_2023.png)
+
+### Media coverage
+
+The Altmetric Attention Score for a research output provides an indicator of the amount of attention that it has received.
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="142502269"></div>
+```
+::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.cub.2018.06.010"}
+:::

@@ -9,7 +9,7 @@
 <link>cdkuempel.github.io/website/research.html</link>
 <atom:link href="cdkuempel.github.io/website/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.0.38</generator>
+<generator>quarto-1.2.269</generator>
 <lastBuildDate>Sun, 23 Oct 2022 14:00:00 GMT</lastBuildDate>
 <item>
   <title>The environmental footprint of global food production</title>
@@ -30,7 +30,7 @@
   <category>sustainable food</category>
   <guid>cdkuempel.github.io/website/publications/halpern_2022.html</guid>
   <pubDate>Sun, 23 Oct 2022 14:00:00 GMT</pubDate>
-  <media:content url="cdkuempel.github.io/website/publications/halpern_2022.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="cdkuempel.github.io/website/publications/halpern_2022.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 <item>
   <title>Rights and representation support justice across aquatic food systems</title>
@@ -343,7 +343,7 @@
 </item>
 <item>
   <title>Multinational coordination required for conservation of over 90% of marine species</title>
-  <dc:creator>Roberson, Beyer, O'Hara, Watson, Dunn, Halpern, Klein, Frazier, Kuempel, Williams, Grantham, Montgomery, Kark, Runting</dc:creator>
+  <dc:creator>Roberson, Beyer, O&#39;Hara, Watson, Dunn, Halpern, Klein, Frazier, Kuempel, Williams, Grantham, Montgomery, Kark, Runting</dc:creator>
   <link>cdkuempel.github.io/website/publications/roberson_2021.html</link>
   <description><![CDATA[ 
 
