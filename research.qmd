@@ -14,7 +14,7 @@ Click on projects below to find links to publications, code/data and media cover
 
 Please e-mail me if you do not have access to my work and I will gladly send you a PDF copy.
 
-I strongly believe in open, reproducible science. I strive to make all data and code from my projects publicly available, where possible. You can find all available materials hosted on github and linked below.
+I strongly believe in open, reproducible science. I strive to make all data and code from our projects publicly available, where possible. You can find all available materials hosted on github and linked below.
 
 ---
 listing:
