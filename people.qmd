@@ -92,3 +92,23 @@ Marina is a PhD student in the School of Environment and Science at Griffith Uni
 In her master's degree in Florianopolis Marina researched participatory approaches for Water Quality Framework establishment. After that she spent time working as a consultant in environmental impact assessment. She has been a Federal Employee in Brazil since 2008 as a Water Infrastructure Analyst where she focused on managing the many uses of Coastal Common areas both in land and water by multiple stakeholders. For her PhD thesis, she will explore climate change impacts on aquaculture. She is also enthusiastic about Marine Spatial Planning and environmental restoration.
 :::
 :::
+
+::: grid
+::: g-col-4
+![Jade Arnold](people/Jade_Arnold.jpg)
+:::
+
+::: g-col-8
+## **Jade Arnold**
+
+Jade is a Master of Environment student at Griffith University as of March 2024.
+
+## Education
+
+**BAdvSc Marine Biology** \| 2018-2020 James Cook University, Townsville
+
+## Experience
+
+Jade is completing her dissertation with Dr Caitie Kuempel in 2024. She is passionate about conservation and science communication. Alongside her studies she works as an Aquarist, specialising in Sea Jellies and marine education. Her masters thesis will focus on the effectiveness of marine protected areas.
+:::
+:::
